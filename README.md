@@ -1,16 +1,27 @@
-### Hi there 👋
+## Bem-vindo(a) ao meu perfil do GitHub! 😃
 
-<!--
-**thaiisfaustino/thaiisfaustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim
 
-Here are some ideas to get you started:
+Olá! Meu nome é **Thaís**, sou uma entusiasta de **ciência de dados.** Estou cursando o segundo semestre de Tecnologia da Informação pela UNIVESP e venho estudando para iniciar minha carreira na área de dados. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades
+
+- Análise exploratória de dados
+- Limpeza e pré-processamento de dados
+- Modelagem estatística
+- Visualização de dados
+- Python (Pandas, NumPy, Scikit-learn, Matplot, entre outros)
+- SQL
+
+### Projetos
+
+No meu perfil, você encontrará alguns dos projetos em que trabalhei recentemente, como participações em cursos e bootcamps.
+
+Estou sempre em busca de aprimorar minhas habilidades e conhecimentos em ciência de dados. Atualmente, estou focada em aprofundar meu conhecimento em conceitos de estatística e o uso da linguagem python para a visualização dos dados. Além disso, estou explorando novas tecnologias e ferramentas relacionadas à análise de dados, como Power BI e Google Sheets.
+
+### Contato
+
+Se você tiver alguma pergunta, sugestão ou oportunidade de colaboração, estou a disposição:
+
+- Email: thaisfsouza@outlook.com
+- LinkedIn: [/thaiisfaustino](linkedin.com/in/thaiisfaustino)
