@@ -2,7 +2,7 @@
 
 ### **Sobre Mim**
 
-Olá! Meu nome é **Thaís**, sou uma entusiasta de **ciência de dados.** Estou cursando o segundo semestre de Tecnologia da Informação pela UNIVESP e venho estudando para iniciar minha carreira na área de dados. 💻
+Olá! Meu nome é **Thaís**. Estou cursando o terceiro semestre de Ciência de Dados pela UNIVESP e sou estagiária de Engenharia Analítica. 💻
 
 ### **Habilidades**
 
