@@ -2,7 +2,7 @@
 
 ### **Sobre Mim**
 
-Olá! Meu nome é **Thaís**. Estou cursando o terceiro semestre de Ciência de Dados pela UNIVESP e sou estagiária de Engenharia Analítica. 💻
+Olá! Meu nome é **Thaís**. Estou cursando o quinto semestre de Ciência de Dados pela UNIVESP e sou estagiária de Engenharia Analítica. 💻
 
 ### **Habilidades**
 
